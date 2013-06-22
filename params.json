@@ -1,0 +1,1 @@
+{"name":"Audio Stats","tagline":"GUI for gathering Audio Stats","body":"Script extracts technical metadata from a .wav file and saves results to .txt file.\r\n\r\nMust be in the same folder as Sox.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
