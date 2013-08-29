@@ -52,7 +52,7 @@ sub runSOX {
 $q = '"';
 $file = $q . $url . $q;
 
-$output = $q . 'C:\OUTPUT\STATS.txt' . $q;
+$output = $q . '../OUTPUT/STATS.txt' . $q;
 
 system("sox $file -n stat 2> $output");
 
